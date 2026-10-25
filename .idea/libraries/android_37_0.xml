@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-37.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/platforms/android-37.0/android-stubs-src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android-37.0/core-for-system-modules.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android-37.0/uiautomator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android-37.0/android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

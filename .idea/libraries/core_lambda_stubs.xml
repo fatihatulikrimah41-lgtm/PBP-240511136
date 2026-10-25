@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="core-lambda-stubs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build-tools/36.0.0/core-lambda-stubs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
